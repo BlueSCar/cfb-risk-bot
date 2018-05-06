@@ -1,0 +1,18 @@
+{
+  "name": "cfb-risk-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BlueSCar",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "discord.js": "^11.3.2",
+    "dotenv": "^5.0.1",
+    "pg-promise": "^8.4.1"
+  }
+}
